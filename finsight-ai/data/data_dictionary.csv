@@ -1,0 +1,24 @@
+Field,Description
+year,Financial year
+company,Company identifier
+category,Industry category
+market_capin_b_usd,Market capitalization in billion USD
+revenue,Total revenue
+gross_profit,Gross profit
+net_income,Net income
+earning_per_share,Earnings per share
+ebitda,EBITDA
+share_holder_equity,Shareholder equity
+cash_flow_from_operating,Operating cash flow
+cash_flow_from_investing,Investing cash flow
+cash_flow_from_financial_activities,Financing cash flow
+current_ratio,Current ratio
+debt_equity_ratio,Debt to equity ratio
+roe,Return on equity
+roa,Return on assets
+roi,Return on investment
+net_profit_margin,Net profit margin
+free_cash_flow_per_share,Free cash flow per share
+return_on_tangible_equity,Return on tangible equity
+number_of_employees,Number of employees
+inflation_ratein_us,US inflation rate

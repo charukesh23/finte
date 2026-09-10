@@ -1,0 +1,4 @@
+Company Name,Fiscal Year,Industry,Sales,Gross Profit Amount,PAT,EBITDA,Total Equity,Operating Cash Flow,Investing Cash Flow,Financing Cash Flow,Current Ratio,Debt to Equity
+DemoCorp,2021,Technology,800,320,72,176,400,120,-40,-10,1.6,0.8
+DemoCorp,2022,Technology,1000,400,100,220,500,150,-50,-20,1.8,0.6
+DemoCorp,2023,Technology,1200,480,132,270,550,180,-60,-25,2.0,0.5

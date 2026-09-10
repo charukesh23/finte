@@ -1,0 +1,7 @@
+Test_ID,Test_Name,Financial_Field,Purpose
+TC01,Revenue Check,revenue,Verify revenue values are numeric and available
+TC02,Net Income Check,net_income,Verify net income values are numeric and available
+TC03,Profit Margin Check,net_profit_margin,Evaluate company profitability
+TC04,ROE Check,roe,Evaluate return generated on shareholder equity
+TC05,Current Ratio Check,current_ratio,Evaluate short-term liquidity
+TC06,Debt Equity Check,debt_equity_ratio,Evaluate financial leverage
